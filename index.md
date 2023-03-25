@@ -3,9 +3,9 @@ layout: base
 ---
 
 # Yong Sheng <u>Tan</u>
-1. <i class="fa-solid fa-envelope"></i> tanysh@pm.me
-2. <i class="fa-solid fa-mobile-screen"></i> +65 9753-6644
-3. <i class="fa-brands fa-linkedin"></i> linkedin.com/in/tanys
+1. <i class="fa-solid fa-envelope"></i> [tanysh@pm.me](mailto:tanysh@pm.me)
+2. <i class="fa-solid fa-mobile-screen"></i> [+65 9753-6644](tel:+6597536644)
+3. <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/tanys](//linkedin.com/in/tanys)
 
 Financial technology professional with 9+ years of experience across software development,
 business analysis and production support looking to further career in a technical or product
