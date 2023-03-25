@@ -3,9 +3,9 @@ layout: base
 ---
 
 # Yong Sheng <u>Tan</u>
-1. <i class="fa-solid fa-envelope"></i> [tanysh@pm.me](mailto:tanysh@pm.me)
-2. <i class="fa-solid fa-mobile-screen"></i> [+65 9753-6644](tel:+6597536644)
-3. <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/tanys](//linkedin.com/in/tanys)
+1. <i class="fa-solid fa-envelope"></i> [i@yong.space](mailto:i@yong.space)
+2. <i class="fa-solid fa-mobile-screen"></i> [6016-3181](tel:+6560163181)
+3. <i class="fa-brands fa-linkedin"></i> [@tanys](//linkedin.com/in/tanys)
 
 Financial technology professional with 9+ years of experience across software development,
 business analysis and production support looking to further career in a technical or product
@@ -16,12 +16,18 @@ enterprise systems and cloud architecture.
 1. Symphony Communications
 2. Feb 2019 – Present
 
-### Developer Relations Technical Lead, APAC
+### Manager, Developer Solutions
+* Led engineering team that delivers Symphony's suite of developer tools for building bots and integrations
+* Responsible for product roadmap, backlog grooming, delivery management and customer engagement
+* Bridged customer domains with technical requirements to ensure developer tools were fit-for-purpose
+* Delivered greenfield workflow studio product that facilitates non-developers in building workflows
+* Liaised with FINOS to maintain standards of open source project delivery and community contributions
+
+### Developer Relations Technical Lead
 * Pioneering lead of team tasked to scale engagement and education of Symphony’s developer community
-* Subject matter expert on developer tools and best practices for building bots, automations & integrations
+* Subject matter expert on best practices for using developer tools to build bots and integrations
 * Responsible for regional outreach to customers on workflow development in collaboration with sales
-* Drove product roadmap by serving as feedback channel between customers and internal engineering
-* Built certification program from scratch, comprising course material, demos, videos, exams & badges
+* Built certification program from scratch, comprising course material, demos, videos, exams and badges
 * Developed and ran assets including a developer portal, training center, forum and documentation site
 * Organised global events like developer meetups, hackathons, webinars and Innovate conferences
 
@@ -43,7 +49,7 @@ Azure cloud components hosted in Kubernetes clusters and a responsive React/Redu
 1. NatWest Markets
 2. Sep 2013 – Mar 2016
 
-### Support Analyst, Sales & Trading Analytics
+### Support Analyst, Sales and Trading Analytics
 * Provided regional production support for the business intelligence suite used by sales and trading desks
 * Responsible for coverage mappings that ensure accurate distribution and reporting of sales income flows
 * Built data visualisation dashboards that enabled decision analysis for the APAC wind down programme
@@ -58,14 +64,6 @@ management environment, highlighting relationships of sensitivities used to risk
 * Developed VBA-based tools for operations teams to enable reconciliation, clearing, reporting functions
 * Migrated legacy TIBCO middleware scheduled tasks onto a SQL Server Integration Services layer
 * Pioneered usage of Python to facilitate straight-through reconciliation of counterparty settlement data
-
-1. Accenture
-2. May 2013 – Aug 2013
-
-### Technical Architecture Analyst
-* Led rapid design and prototyping efforts on a Java/Spring-based portal solution for academic institutions
-* Improved the production build quality by building prototypes used as a foundation by the offshore
-development team to align understanding of the requirements and user experience
 
 # Education
 1. Singapore Management University
