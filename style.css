@@ -52,7 +52,6 @@ ol:first-of-type li {
         flex-direction: row;
         gap: 1.5rem;
         margin: .4rem 0;
-        padding-left: 2.8rem;
     }
 }
 h3 { font-style: italic; margin: 0; font-weight: 500 }
