@@ -1,0 +1,37 @@
+html, body { height: 100%; display: flex; flex: 1 1 1px; }
+* {
+    font-family: 'Lato';
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+}
+html { font-size: 14px; }
+body { background: #2a2a2e }
+h1 { margin-top: 1rem; text-transform: uppercase; }
+h2 { margin: 0 }
+h1:first-of-type, h1:first-of-type u { font-size: 1.15rem; font-weight: 600; }
+h2:first-of-type { margin: .4rem 0 }
+h2:not(:first-of-type) { font-weight: 800 }
+h2 + h2 { float: right; position: relative; top: -1.3rem; }
+h3 { font-style: italic; margin: 0; }
+
+ul + h2 { margin-top: .8rem }
+ul + h3 { margin-top: .6rem }
+li { margin-left: 1.7rem; line-height: 1.35rem; }
+
+h1:first-of-type, h2:first-of-type { text-align: center; }
+
+h1:not(:first-of-type) {
+    border-bottom: #666 2px solid;
+}
+main {
+    width: 57rem;
+    aspect-ratio: 210 / 297;
+    margin: auto auto;
+    background: #fff;
+    border-radius: .4rem;
+}
+article {
+    padding: 3.5rem;
+}
