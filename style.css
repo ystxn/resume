@@ -6,7 +6,7 @@ html, body {
     align-items: center;
     font-size: 14px;
     font-family: 'Lato';
-    font-weight: 100;
+    font-weight: 400 !important;
     background: #2a2a2e;
 }
 * {
@@ -18,21 +18,22 @@ body { padding: .5rem 0 }
     body { padding-top: 2rem }
 }
 p, h1, h2, h3, li, u, div { font-size: 1rem }
+h1, h2, h3 { font-weight: 400 }
 h1 { text-transform: uppercase }
 h1:not(:first-of-type) { margin-top: 1rem }
 h2 { margin: 0 }
-h1:first-of-type, h1:first-of-type u { font-size: 1.15rem; font-weight: 600; }
+h1:first-of-type, h1:first-of-type u { font-size: 1.15rem }
 ol {
-    margin-top: 1rem;
+    margin-top: .6rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 h1 + * { margin-top: .2rem }
 ol li {
+    font-weight: 600;
     margin: 0;
     list-style: none;
-    font-weight: 800;
     align-self: center;
     white-space: nowrap;
 }
@@ -42,9 +43,9 @@ ol:first-of-type {
     margin-bottom: .5rem;
 }
 ol:first-of-type li {
+    font-weight: 400;
     display: flex;
     gap: .3rem;
-    font-weight: 100;
     align-items: center;
 }
 @media print, (min-width:600px)  {
@@ -54,7 +55,7 @@ ol:first-of-type li {
         margin: .4rem 0;
     }
 }
-h3 { font-style: italic; margin: 0; font-weight: 500 }
+h3 { font-style: italic; margin: 0 }
 ul + h2 { margin-top: .8rem }
 ul + h3 { margin-top: .6rem }
 li { margin-left: 1.7rem; line-height: 1.35rem; }
@@ -70,7 +71,7 @@ main {
 }
 article { padding: 1rem }
 @media (min-width:600px) {
-    article { padding: 3.5rem }
+    article { padding: 4rem }
 }
 a { color: inherit; text-decoration: none; }
 a.button {
@@ -89,6 +90,6 @@ a.button {
 }
 @media print {
     body { background: #fff }
-    article { padding: 2rem }
+    article { padding: 1rem 2rem }
     a.button { display: none }
 }
