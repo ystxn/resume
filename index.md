@@ -3,18 +3,27 @@ layout: base
 ---
 
 # Yong Sheng <u>Tan</u>
-1. <i class="fa-solid fa-envelope"></i> [i@yong.space](mailto:i@yong.space)
-2. <i class="fa-solid fa-mobile-screen"></i> [6016-3181](tel:+6560163181)
-3. <i class="fa-brands fa-linkedin"></i> [@tanys](//linkedin.com/in/tanys)
+1. <i class="fa-solid fa-envelope"></i> &#105;&#8203;&#64;&#8203;&#121;&#111;&#110;&#103;&#8203;&#46;&#8203;&#115;&#112;&#97;&#99;&#101;
+2. <i class="fa-solid fa-mobile-screen"></i> &#57;&#55;&#53;&#51;&nbsp;&middot;&nbsp;&#54;&#54;&#52;&#52;
+3. <i class="fa-brands fa-linkedin"></i> [**/**tanys](//linkedin.com/in/tanys)
 
-Financial technology professional with 9+ years of experience across software development,
-business analysis and production support looking to further career in a technical or product
+Financial technology professional with 11+ years of experience across software development,
+business analysis and production support looking to further career in a technical or product/platform
 development role. Adept in managing software delivery lifecycles with a keen understanding of
 enterprise systems and cloud architecture.
 
 # Experience
+1. Orkes
+2. Jan 2024 - Present
+
+### Senior Solutions Architect
+* Launched APAC office tasked with establishing regional presence for sales, consulting, developer relations
+* Led pre-sales engineering, technical account management and solutions architecture for non-US customers
+* Responsible for technical customer success in converting platform investment into realised business value
+* Organised developer meet-up events and presented at key business and technical conferences regionally
+
 1. Symphony Communications
-2. Feb 2019 – Present
+2. Feb 2019 – Jan 2024
 
 ### Manager, Developer Solutions
 * Led engineering team that delivers Symphony's suite of developer tools for building bots and integrations
@@ -25,8 +34,7 @@ enterprise systems and cloud architecture.
 
 ### Developer Relations Technical Lead
 * Pioneering lead of team tasked to scale engagement and education of Symphony’s developer community
-* Subject matter expert on best practices for using developer tools to build bots and integrations
-* Responsible for regional outreach to customers on workflow development in collaboration with sales
+* Subject matter expert on best practices for using developer tools to build solutions for markets use-cases
 * Built certification program from scratch, comprising course material, demos, videos, exams and badges
 * Developed and ran assets including a developer portal, training center, forum and documentation site
 * Organised global events like developer meetups, hackathons, webinars and Innovate conferences
@@ -35,10 +43,8 @@ enterprise systems and cloud architecture.
 2. Jun 2016 – Feb 2019
 
 ### Engineering Lead, Enterprise Applications Technology
-* Co-led backend and frontend engineering on a CRM system comprising Java microservices employing
-Azure cloud components hosted in Kubernetes clusters and a responsive React/Redux web app
-*  Responsible for scoping requirements, delivery, deployments, support and managing team of developers
-*  Set up DevOps pipelines in Jenkins/Puppet to enable continuous integration/delivery
+* Led engineering on a new cross-asset CRM platform that pioneered use of cloud-native architecture
+* Responsible for scoping requirements, delivery, deployments, support and managing team of developers
 * Key developer on innovation award-winning platform for sharing investment ideas across asset classes
 
 ### Developer, Public Equities Analytics
@@ -55,14 +61,12 @@ Azure cloud components hosted in Kubernetes clusters and a responsive React/Redu
 * Built data visualisation dashboards that enabled decision analysis for the APAC wind down programme
 
 ### Business Analyst, Market Risk Technology
-* Coordinated with risk managers and development teams to translate issues into implementation outcomes
-* Minimised impact to risk sensitivity and VaR metrics from upstream changes through tolerance analysis
-* Developed an interactive guide that improved global understanding of the diverse market risk
-management environment, highlighting relationships of sensitivities used to risk manage products
+* Managed delivery of in-house market risk platform, liaising with risk managers and engineering
+* Mitigated impact to risk sensitivity and VaR metrics from upstream changes through tolerance analysis
+* Developed an interactive guide that highlights relationships of sensitivities used to risk manage products
 
 ### Developer, Operations Technology
 * Developed VBA-based tools for operations teams to enable reconciliation, clearing, reporting functions
-* Migrated legacy TIBCO middleware scheduled tasks onto a SQL Server Integration Services layer
 * Pioneered usage of Python to facilitate straight-through reconciliation of counterparty settlement data
 
 # Education
